@@ -1,4 +1,4 @@
-# 🏍️ Lucky's Portfolio
+# 🏍️ Lucky-DAGS Portfolio
 
 Welcome to my personal portfolio website.
 
@@ -7,12 +7,12 @@ programming, networking, databases, and technology.
 
 ## 🌐 Live Portfolio
 
-[Visit My Portfolio](https://YOUR_USERNAME.github.io/my-portfolio/)
+[Visit My Portfolio](https://lucky-dags.github.io/my-portfolio/)
 
 ## 👨‍💻 About Me
 
 I'm an Information Technology student who enjoys creating practical
-web applications and learning new technologies.
+web applications and continuously improving my programming skills.
 
 ## 🛠️ Skills
 
@@ -28,48 +28,35 @@ web applications and learning new technologies.
 
 ## 💻 Projects
 
-### 1. Dagta Rider Fare Calculator
+### 🏍️ Dagta Rider Fare Calculator
 
 A web-based fare calculator designed to help motorcycle riders calculate
 estimated fares based on distance, fuel consumption, fuel price, and
 minimum fare.
 
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
 **Duration:** 2 Weeks
 
 [View Application](YOUR_APPLICATION_LINK)
 
----
+### 🏍️ Rider Fare Calculator V2
 
-### 2. Rider Fare Calculator V2
-
-An improved version of the Rider Fare Calculator featuring a cleaner
+An improved version of the rider fare calculator featuring a cleaner
 interface, automatic fare calculation, and an easier user experience.
 
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
 **Duration:** 3 Weeks
 
 [View Application](YOUR_APPLICATION_LINK)
 
-## 📁 Project Structure
+## 📬 Contact
 
-```text
-my-portfolio/
-│
-├── images/
-│   ├── profile.jpg
-│   ├── rider-fare-v1.png
-│   └── rider-fare-v2.png
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+GitHub: https://github.com/Lucky-DAGS
+
+Email: your@email.com
+
+---
+
+© 2026 Lucky-DAGS
