@@ -36,9 +36,9 @@ minimum fare.
 
 **Technologies:** HTML, CSS, JavaScript
 
-**Duration:** 2 Weeks
+**Duration:** 3 Days
 
-[View Application](YOUR_APPLICATION_LINK)
+[View Application](https://lucky-dags.github.io/APP/)
 
 ### 🏍️ Rider Fare Calculator V2
 
@@ -47,15 +47,15 @@ interface, automatic fare calculation, and an easier user experience.
 
 **Technologies:** HTML, CSS, JavaScript
 
-**Duration:** 3 Weeks
+**Duration:** 2 Weeks
 
-[View Application](YOUR_APPLICATION_LINK)
+[View Application](https://lucky-dags.github.io/Fare-calculator-v2/)
 
 ## 📬 Contact
 
 GitHub: https://github.com/Lucky-DAGS
 
-Email: your@email.com
+Email: luckydagta22@gmail.com
 
 ---
 
